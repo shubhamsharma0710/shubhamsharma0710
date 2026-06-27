@@ -107,13 +107,9 @@ I enjoy building scalable backend systems, cloud applications, and solving DSA p
 <img src="https://komarev.com/ghpvc/?username=shubhamsharma0710&label=Profile+Views&color=blue&style=for-the-badge"/>
 </p>
 
-## 🏆 GitHub Trophies
 
-<p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=shubhamsharma0710&theme=tokyonight&row=1&column=7"/>
-
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=shubhamsharma0710&theme=tokyonight)
 
 
 
