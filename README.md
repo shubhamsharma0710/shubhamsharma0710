@@ -12,8 +12,6 @@ I enjoy building scalable backend systems, cloud applications, and solving DSA p
 
 🎓 B.Tech Computer Science Student
 
-💼 Software Developer Intern @ NASSCOM
-
 🔥 500+ DSA Problems Solved
 
 ⚡ Backend Developer
