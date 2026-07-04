@@ -97,7 +97,9 @@ I enjoy building scalable backend systems, cloud applications, and solving DSA p
 
 ## 🐍 Contribution Snake
 
-![](https://raw.githubusercontent.com/shubhamsharma0710/shubhamsharma0710/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shubhamsharma0710/shubhamsharma0710/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ## 👀 Profile Views
 
