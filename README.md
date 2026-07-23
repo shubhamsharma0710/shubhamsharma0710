@@ -95,13 +95,13 @@ I enjoy building scalable backend systems, cloud applications, and solving DSA p
 
 </p>
 
-## 🐍 Contribution Snake
+
 
 <!-- <p align="center">
   <img src="https://raw.githubusercontent.com/shubhamsharma0710/shubhamsharma0710/output/github-contribution-grid-snake-dark.svg" />
 </p> -->
 
-## 👀 Profile Views
+
 
 <!-- <p align="center">
 <img src="https://komarev.com/ghpvc/?username=shubhamsharma0710&label=Profile+Views&color=blue&style=for-the-badge"/>
