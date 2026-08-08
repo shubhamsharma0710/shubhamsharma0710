@@ -2,12 +2,6 @@
 <img src="images/banner.png">
 </p>
 
-# Hi 👋 I'm Shubham Sharma
-
-Backend Developer | Full Stack Developer
-
-I enjoy building scalable backend systems, cloud applications, and solving DSA problems.
-
 ## 👨‍💻 About Me
 
 🎓 B.Tech Computer Science Student
